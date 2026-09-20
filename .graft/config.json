@@ -1,0 +1,17 @@
+{
+  "onlyDirs": [
+    "app",
+    "lib",
+    "worker",
+    "db",
+    "drizzle",
+    "scripts",
+    "skills",
+    "README.md",
+    "drizzle.config.ts",
+    "next.config.ts",
+    "vite.config.ts",
+    "tsconfig.json",
+    "eslint.config.mjs"
+  ]
+}
